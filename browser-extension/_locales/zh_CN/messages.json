@@ -1,0 +1,10 @@
+{
+  "extName": {
+    "message": "SteamDL下载助手",
+    "description": "扩展名称"
+  },
+  "extDescription": {
+    "message": "嗅探网页资源并接管浏览器下载，交给 SteamDL（Steam图书馆下载器）多线程下载；支持一键归还浏览器下载。",
+    "description": "扩展简介"
+  }
+}
